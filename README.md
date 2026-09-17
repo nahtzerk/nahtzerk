@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/natebrito"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:it.nathanbrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dev-natebrito&style=for-the-badge&color=7C3AED"/>
+  <img src="https://komarev.com/ghpvc/?username=nahtzerk&style=for-the-badge&color=7C3AED"/>
 </p>
 
 ---
@@ -55,5 +55,5 @@ Currently at **BTG Pactual** — developing price distribution infrastructure th
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-natebrito&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=nahtzerk&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
